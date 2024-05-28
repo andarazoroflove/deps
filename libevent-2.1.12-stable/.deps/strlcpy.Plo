@@ -1,0 +1,42 @@
+strlcpy.lo: strlcpy.c include/event2/event-config.h evconfig-private.h \
+ c:/mingw32/i686-w64-mingw32/include/sys/types.h \
+ c:/mingw32/i686-w64-mingw32/include/crtdefs.h \
+ c:/mingw32/i686-w64-mingw32/include/_mingw.h \
+ c:/mingw32/i686-w64-mingw32/include/_mingw_mac.h \
+ c:/mingw32/i686-w64-mingw32/include/_mingw_secapi.h \
+ c:/mingw32/i686-w64-mingw32/include/vadefs.h \
+ c:/mingw32/i686-w64-mingw32/include/sdks/_mingw_directx.h \
+ c:/mingw32/i686-w64-mingw32/include/sdks/_mingw_ddk.h \
+ c:/mingw32/i686-w64-mingw32/include/_mingw_off_t.h strlcpy-internal.h \
+ include/event2/visibility.h c:/mingw32/i686-w64-mingw32/include/string.h \
+ c:/mingw32/i686-w64-mingw32/include/sec_api/string_s.h
+
+include/event2/event-config.h:
+
+evconfig-private.h:
+
+c:/mingw32/i686-w64-mingw32/include/sys/types.h:
+
+c:/mingw32/i686-w64-mingw32/include/crtdefs.h:
+
+c:/mingw32/i686-w64-mingw32/include/_mingw.h:
+
+c:/mingw32/i686-w64-mingw32/include/_mingw_mac.h:
+
+c:/mingw32/i686-w64-mingw32/include/_mingw_secapi.h:
+
+c:/mingw32/i686-w64-mingw32/include/vadefs.h:
+
+c:/mingw32/i686-w64-mingw32/include/sdks/_mingw_directx.h:
+
+c:/mingw32/i686-w64-mingw32/include/sdks/_mingw_ddk.h:
+
+c:/mingw32/i686-w64-mingw32/include/_mingw_off_t.h:
+
+strlcpy-internal.h:
+
+include/event2/visibility.h:
+
+c:/mingw32/i686-w64-mingw32/include/string.h:
+
+c:/mingw32/i686-w64-mingw32/include/sec_api/string_s.h:
